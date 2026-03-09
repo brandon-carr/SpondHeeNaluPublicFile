@@ -1,13 +1,6 @@
 {
   "date": "2026-03-11",
-  "activity": "Petaluma Recreation",
-  "going_count": 6,
-  "going": [
-    "Gary Mondo",
-    "Mary Martinelli",
-    "Maureen Chapman",
-    "Patricia Mullen",
-    "Sue Pearson",
-    "Tom Weaver"
-  ]
+  "activity": null,
+  "going_count": 0,
+  "going": []
 }
