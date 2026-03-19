@@ -1,18 +1,22 @@
 {
-  "date": "2026-03-18",
-  "activity": "Petaluma Recreation",
-  "start_time": "2026-03-18T12:00:00",
-  "going_count": 10,
+  "date": "2026-03-19",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-03-19T17:30:00",
+  "going_count": 14,
   "going": [
-    "Gary Mondo",
-    "Georgia Vossler",
-    "Kelly Hartgraves",
-    "Mary Martinelli",
-    "Maureen Chapman",
-    "Mike Noel",
-    "Patricia Mullen",
-    "Ruth Ashe",
-    "Sue Pearson",
-    "Tom Weaver"
+    "Brandon Carr",
+    "Deborah Lokteff",
+    "Deirdre Reilly",
+    "Fred Andersen",
+    "Gary Serrano",
+    "John Kaplanis",
+    "Kat Alvarado",
+    "Lauren Holtz",
+    "Lisa Tarantino",
+    "Michelle Turner",
+    "Nicole Sholly",
+    "Steve Gies",
+    "Susie Abel",
+    "Tim Cornwell"
   ]
 }
