@@ -1,7 +1,29 @@
 {
-  "date": "2026-03-20",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-03-21",
+  "activity": "Competitive Saturday Paddle",
+  "start_time": "2026-03-21T09:00:00",
+  "going_count": 21,
+  "going": [
+    "Anna Tosick",
+    "Anne Ching",
+    "Brandon Carr",
+    "Dylan Turner",
+    "Elaine Steinbrecher",
+    "Fred Andersen",
+    "Gary Serrano",
+    "Helga Mispelblom",
+    "Josh Luria",
+    "Kat Alvarado",
+    "Lauren Wayson",
+    "Lisa Robison",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Michelle Turner",
+    "Nancy Rogers",
+    "Roberto Reichard",
+    "Shannah Young",
+    "Steve Herzog",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
