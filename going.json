@@ -1,7 +1,28 @@
 {
-  "date": "2026-03-23",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-03-24",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-03-24T17:45:00",
+  "going_count": 20,
+  "going": [
+    "Amy Lockwood",
+    "Anne Ching",
+    "Deirdre Reilly",
+    "Dylan Turner",
+    "Gary Serrano",
+    "Helga Mispelblom",
+    "Josh Luria",
+    "Lauren Holtz",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Mia Rocca",
+    "Nancy Rogers",
+    "Nicole Sholly",
+    "Nicole Wahbeh",
+    "Poppy Nelson-Smith",
+    "Roberto Reichard",
+    "Shannah Young",
+    "Steve Gies",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
