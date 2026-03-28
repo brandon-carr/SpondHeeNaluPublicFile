@@ -1,7 +1,32 @@
 {
-  "date": "2026-03-27",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-03-28",
+  "activity": "Competitive Saturday Paddle",
+  "start_time": "2026-03-28T09:00:00",
+  "going_count": 24,
+  "going": [
+    "Amy Lockwood",
+    "Anna Tosick",
+    "Bev Marx",
+    "Brandon Carr",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Fred Andersen",
+    "Gary Serrano",
+    "John Kaplanis",
+    "Kat Alvarado",
+    "Lauren Holtz",
+    "Lauren Wayson",
+    "Lisa Robison",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Mia Rocca",
+    "Michelle Turner",
+    "Nicole Sholly",
+    "Roberto Reichard",
+    "Roxann Bettencourt",
+    "Shannah Young",
+    "Steve Herzog",
+    "Toni Anderson",
+    "Tracy Turner"
+  ]
 }
