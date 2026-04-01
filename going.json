@@ -1,23 +1,7 @@
 {
-  "date": "2026-03-31",
-  "activity": "Competitive Weeknight Paddle",
-  "start_time": "2026-03-31T17:45:00",
-  "going_count": 15,
-  "going": [
-    "Amy Lockwood",
-    "Anna Tosick",
-    "Brandon Carr",
-    "Gary Serrano",
-    "Helga Mispelblom",
-    "Josh Luria",
-    "Kat Alvarado",
-    "Mia Rocca",
-    "Nancy Rogers",
-    "Nicole Sholly",
-    "Nicole Wahbeh",
-    "Poppy Nelson-Smith",
-    "Roberto Reichard",
-    "Steve Gies",
-    "Susie Abel"
-  ]
+  "date": "2026-04-01",
+  "activity": null,
+  "start_time": null,
+  "going_count": 0,
+  "going": []
 }
