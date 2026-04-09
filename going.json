@@ -1,7 +1,27 @@
 {
-  "date": "2026-04-08",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-04-09",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-04-09T18:00:00",
+  "going_count": 19,
+  "going": [
+    "Amy Lockwood",
+    "Clare Waterloo",
+    "Deborah Lokteff - rec",
+    "Deirdre Reilly",
+    "Deven Clemens",
+    "Elaine Steinbrecher",
+    "Fred Andersen",
+    "Gary Serrano",
+    "Ginny Hodges",
+    "John Kaplanis",
+    "Josh Luria",
+    "Kat Alvarado",
+    "Lauren Holtz",
+    "Lynn Curry",
+    "Nicole Sholly",
+    "Shannah Young",
+    "Steve Herzog",
+    "Susie Abel",
+    "Tim Cornwell"
+  ]
 }
