@@ -1,7 +1,30 @@
 {
-  "date": "2026-04-15",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-04-16",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-04-16T18:00:00",
+  "going_count": 22,
+  "going": [
+    "Anne Ching",
+    "Brandon Carr",
+    "Brenen Guyol",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Elaine Steinbrecher",
+    "Fred Andersen",
+    "Gary Serrano",
+    "Helga Mispelblom",
+    "John Kaplanis",
+    "Kat Alvarado",
+    "Lauren Holtz",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Michelle Turner",
+    "Nancy Rogers",
+    "Nicole Sholly",
+    "Poppy Nelson-Smith",
+    "Roberto Reichard",
+    "Steve Herzog",
+    "Steven Vernon",
+    "Susie Abel"
+  ]
 }
