@@ -1,7 +1,26 @@
 {
-  "date": "2026-05-01",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-05-02",
+  "activity": "May Mashup at O’Kalani",
+  "start_time": "2026-05-02T07:00:00",
+  "going_count": 18,
+  "going": [
+    "Amy Lockwood",
+    "Anna Tosick",
+    "Clare Sackson - nov",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Dylan Turner",
+    "Elaine Steinbrecher",
+    "Elise Holland - nov",
+    "Josh Luria",
+    "Kat Alvarado",
+    "Lauren Holtz",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Nicole Sholly",
+    "Sarah Besford - nov",
+    "Steve Herzog",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
