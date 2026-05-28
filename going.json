@@ -1,7 +1,27 @@
 {
-  "date": "2026-05-27",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-05-28",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-05-28T18:00:00",
+  "going_count": 19,
+  "going": [
+    "Amy Lockwood",
+    "Anna Tosick",
+    "Brandon Carr",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Gary Serrano",
+    "Ginny Hodges",
+    "John Kaplanis",
+    "Josh Luria",
+    "Lauren Holtz",
+    "Lucy Gentry",
+    "Mia Rocca",
+    "Michelle Turner",
+    "Nicole Sholly",
+    "Roberto Reichard",
+    "Steve Herzog",
+    "Susie Abel",
+    "Tim Cornwell",
+    "Toni Anderson"
+  ]
 }
