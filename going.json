@@ -1,25 +1,7 @@
 {
-  "date": "2026-05-31",
-  "activity": "Post practice lunch",
-  "start_time": "2026-05-31T11:30:00",
-  "going_count": 17,
-  "going": [
-    "Brian Cassel - nov",
-    "Clare Sackson - nov",
-    "Dan Freeman",
-    "Ethan Thompson - nov",
-    "Etienne Oliver - nov",
-    "Gail Reinke - nov",
-    "Isaac Benitez - nov",
-    "Kat Alvarado",
-    "Lauren Holtz",
-    "Les Scanlan",
-    "Nicole Sholly",
-    "Nicole Wahbeh",
-    "Ron Porter - NP",
-    "Roxann Bettencourt",
-    "Sarah Besford - nov",
-    "Sylvaine Guille",
-    "Walker Seligson - nov"
-  ]
+  "date": "2026-06-01",
+  "activity": null,
+  "start_time": null,
+  "going_count": 0,
+  "going": []
 }
