@@ -1,7 +1,31 @@
 {
-  "date": "2026-06-01",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-06-02",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-06-02T18:00:00",
+  "going_count": 23,
+  "going": [
+    "Anna Tosick",
+    "Anne Ching",
+    "Brandon Carr",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Dylan Turner",
+    "Elaine Steinbrecher",
+    "Gary Serrano",
+    "Helga Mispelblom",
+    "Josh Luria",
+    "Lauren Wayson",
+    "Lisa Tarantino",
+    "Mia Rocca",
+    "Nancy Rogers",
+    "Nicole Wahbeh",
+    "Roberto Reichard",
+    "Roxann Bettencourt",
+    "Steve Gies",
+    "Steve Herzog",
+    "Susie Abel",
+    "Tim Cornwell",
+    "Toni Anderson",
+    "Tracy Turner"
+  ]
 }
