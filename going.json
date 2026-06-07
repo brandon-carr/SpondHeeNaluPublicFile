@@ -1,18 +1,7 @@
 {
-  "date": "2026-06-06",
-  "activity": "Sprint Regatta",
-  "start_time": "2026-06-06T07:00:00",
-  "going_count": 10,
-  "going": [
-    "Amy Lockwood",
-    "Anne Ching",
-    "Elise Holland - nov",
-    "Etienne Oliver - nov",
-    "Gary Serrano",
-    "Isaac Benitez - nov",
-    "Lisa Tarantino",
-    "Nancy Rogers",
-    "Nicole Sholly",
-    "Sarah Besford - nov"
-  ]
+  "date": "2026-06-07",
+  "activity": null,
+  "start_time": null,
+  "going_count": 0,
+  "going": []
 }
