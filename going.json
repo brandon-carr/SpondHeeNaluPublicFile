@@ -1,7 +1,23 @@
 {
-  "date": "2026-06-15",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-06-16",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-06-16T18:00:00",
+  "going_count": 15,
+  "going": [
+    "Bev Marx",
+    "Deirdre Reilly",
+    "Elaine Steinbrecher",
+    "Gary Serrano",
+    "Josh Luria",
+    "Lauren Holtz",
+    "Lynn Curry",
+    "Michelle Turner",
+    "Nancy Rogers",
+    "Nicole Sholly",
+    "Roxann Bettencourt",
+    "Steve Herzog",
+    "Susie Abel",
+    "Toni Anderson",
+    "Tracy Turner"
+  ]
 }
