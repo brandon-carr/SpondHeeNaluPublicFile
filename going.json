@@ -1,7 +1,27 @@
 {
-  "date": "2026-07-29",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-07-30",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-07-30T18:00:00",
+  "going_count": 19,
+  "going": [
+    "Amy Lockwood",
+    "Anne Ching",
+    "Clare Waterloo",
+    "Fred Andersen",
+    "Gary Serrano",
+    "Ginny Hodges",
+    "Helga Mispelblom",
+    "John Kaplanis",
+    "Lauren Holtz",
+    "Mia Rocca",
+    "Michelle Turner",
+    "Nancy Rogers",
+    "Nicole Sholly",
+    "Roberto Reichard",
+    "Steve Gies",
+    "Steve Herzog",
+    "Susie Abel",
+    "Toni Anderson",
+    "Tracy Turner"
+  ]
 }
