@@ -1,7 +1,26 @@
 {
-  "date": "2026-08-05",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-08-06",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-08-06T18:00:00",
+  "going_count": 18,
+  "going": [
+    "Amy Lockwood",
+    "Anne Ching",
+    "Brandon Carr",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Elaine Steinbrecher",
+    "Ginny Hodges",
+    "Helga Mispelblom",
+    "Josh Luria",
+    "Lauren Holtz",
+    "Les Scanlan",
+    "Lisa Tarantino",
+    "Lucy Gentry",
+    "Lynn Curry",
+    "Michelle Turner",
+    "Steve Gies",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
