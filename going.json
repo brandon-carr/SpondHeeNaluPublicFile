@@ -1,7 +1,21 @@
 {
-  "date": "2026-08-31",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-09-01",
+  "activity": "Competitive Weeknight Paddle",
+  "start_time": "2026-09-01T18:00:00",
+  "going_count": 13,
+  "going": [
+    "Amy Lockwood",
+    "Clare Waterloo",
+    "Deirdre Reilly",
+    "Dylan Turner",
+    "Josh Luria",
+    "Lauren Holtz",
+    "Lisa Tarantino",
+    "Lucy Gentry",
+    "Michelle Turner",
+    "Nicole Sholly",
+    "Steve Gies",
+    "Steve Herzog",
+    "Toni Anderson"
+  ]
 }
