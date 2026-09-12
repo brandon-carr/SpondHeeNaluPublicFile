@@ -1,7 +1,19 @@
 {
-  "date": "2026-09-11",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-09-12",
+  "activity": "Competitive Saturday",
+  "start_time": "2026-09-12T08:45:00",
+  "going_count": 11,
+  "going": [
+    "Brandon Carr",
+    "Dylan Turner",
+    "Elaine Steinbrecher",
+    "Gary Serrano",
+    "John Kaplanis",
+    "Mia Rocca",
+    "Roberto Reichard",
+    "Roxann Bettencourt",
+    "Steve Gies",
+    "Steve Herzog",
+    "Susie Abel"
+  ]
 }
