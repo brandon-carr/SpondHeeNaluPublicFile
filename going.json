@@ -1,7 +1,27 @@
 {
-  "date": "2026-10-09",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-10-10",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-10-10T09:00:00",
+  "going_count": 19,
+  "going": [
+    "Amy Lockwood",
+    "Brenen Guyol",
+    "Ethan Thompson - nov",
+    "Fred Andersen",
+    "Gary Serrano",
+    "Helga Mispelblom",
+    "Isaac Benitez - nov",
+    "John Kaplanis",
+    "Lauren Wayson",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Mia Rocca",
+    "Michelle Turner",
+    "Nancy Rogers",
+    "Nicole Sholly",
+    "Roberto Reichard",
+    "Roxann Bettencourt",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
