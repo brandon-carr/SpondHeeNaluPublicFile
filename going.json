@@ -1,7 +1,20 @@
 {
-  "date": "2026-10-13",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-10-14",
+  "activity": "Winter weekday paddle",
+  "start_time": "2026-10-14T10:00:00",
+  "going_count": 12,
+  "going": [
+    "Brandon Carr",
+    "Brian Cassel - nov",
+    "Ethan Thompson - nov",
+    "Gail Reinke - nov",
+    "Gary Serrano",
+    "Joaquin Hernandez - nov",
+    "John Kaplanis",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Michele Dermer",
+    "Nancy Rogers",
+    "Roberto Reichard"
+  ]
 }
