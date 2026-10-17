@@ -1,7 +1,20 @@
 {
-  "date": "2026-10-16",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-10-17",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-10-17T09:00:00",
+  "going_count": 12,
+  "going": [
+    "Brenen Guyol",
+    "Dylan Turner",
+    "Ethan Thompson - nov",
+    "Gary Serrano",
+    "Josh Luria",
+    "Lauren Wayson",
+    "Lynn Curry",
+    "Michelle Turner",
+    "Nancy Rogers",
+    "Roberto Reichard",
+    "Steve Gies",
+    "Walker Seligson - nov"
+  ]
 }
