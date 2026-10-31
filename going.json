@@ -1,7 +1,25 @@
 {
-  "date": "2026-10-30",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-10-31",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-10-31T09:00:00",
+  "going_count": 17,
+  "going": [
+    "Amy Lockwood",
+    "Bev Marx",
+    "Brenen Guyol",
+    "Dylan Turner",
+    "Fred Andersen",
+    "Gary Serrano",
+    "Isaac Benitez - nov",
+    "John Kaplanis",
+    "Josh Luria",
+    "Kelly Alpert - nov",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Mia Rocca",
+    "Nancy Rogers",
+    "Roberto Reichard",
+    "Steve Gies",
+    "Walker Seligson - nov"
+  ]
 }
