@@ -1,7 +1,24 @@
 {
-  "date": "2026-11-06",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-11-07",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-11-07T09:00:00",
+  "going_count": 16,
+  "going": [
+    "Amy Lockwood",
+    "Brenen Guyol",
+    "Ethan Thompson - nov",
+    "Fred Andersen",
+    "Gail Reinke - nov",
+    "Isaac Benitez - nov",
+    "Josh Luria",
+    "Lauren Wayson",
+    "Mia Rocca",
+    "Nancy Rogers",
+    "Roberto Reichard",
+    "Sarah Besford - nov",
+    "Steve Gies",
+    "Susie Abel",
+    "Toni Anderson",
+    "Walker Seligson - nov"
+  ]
 }
