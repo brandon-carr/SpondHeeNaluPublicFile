@@ -1,7 +1,26 @@
 {
-  "date": "2026-11-13",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-11-14",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-11-14T09:00:00",
+  "going_count": 18,
+  "going": [
+    "Brandon Carr",
+    "Dylan Turner",
+    "Elaine Steinbrecher",
+    "Ethan Thompson - nov",
+    "Gail Reinke - nov",
+    "Gary Serrano",
+    "Isaac Benitez - nov",
+    "Josh Luria",
+    "Kelly Alpert - nov",
+    "Lauren Wayson",
+    "Lisa Tarantino",
+    "Mia Rocca",
+    "Michelle Turner",
+    "Roberto Reichard",
+    "Steve Gies",
+    "Susie Abel",
+    "Toni Anderson",
+    "Walker Seligson - nov"
+  ]
 }
