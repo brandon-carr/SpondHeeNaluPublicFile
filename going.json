@@ -1,7 +1,24 @@
 {
-  "date": "2026-11-17",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-11-18",
+  "activity": "Winter weekday paddle",
+  "start_time": "2026-11-18T10:00:00",
+  "going_count": 16,
+  "going": [
+    "Amy Lockwood",
+    "Brandon Carr",
+    "Brian Cassel - nov",
+    "Clare Waterloo",
+    "Ethan Thompson - nov",
+    "Gail Reinke - nov",
+    "Gary Serrano",
+    "Joaquin Hernandez - nov",
+    "John Kaplanis",
+    "Josh Luria",
+    "Kelly Alpert - nov",
+    "Lisa Tarantino",
+    "Michele Dermer",
+    "Roberto Reichard",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
