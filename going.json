@@ -1,7 +1,26 @@
 {
-  "date": "2026-11-20",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-11-21",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-11-21T09:00:00",
+  "going_count": 18,
+  "going": [
+    "Amy Lockwood",
+    "Anne Ching",
+    "Clare Waterloo",
+    "Dylan Turner",
+    "Elaine Steinbrecher",
+    "Ethan Thompson - nov",
+    "Etienne Oliver - nov",
+    "Fred Andersen",
+    "Gail Reinke - nov",
+    "Gary Serrano",
+    "Isaac Benitez - nov",
+    "John Kaplanis",
+    "Josh Luria",
+    "Lynn Curry",
+    "Michelle Turner",
+    "Roberto Reichard",
+    "Susie Abel",
+    "Toni Anderson"
+  ]
 }
