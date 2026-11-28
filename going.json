@@ -1,7 +1,26 @@
 {
-  "date": "2026-11-27",
-  "activity": null,
-  "start_time": null,
-  "going_count": 0,
-  "going": []
+  "date": "2026-11-28",
+  "activity": "Winter weekend paddle",
+  "start_time": "2026-11-28T09:00:00",
+  "going_count": 18,
+  "going": [
+    "Amy Lockwood",
+    "Anna Tosick",
+    "Brandon Carr",
+    "Elaine Steinbrecher",
+    "Ethan Thompson - nov",
+    "Fred Andersen",
+    "Gail Reinke - nov",
+    "Gary Serrano",
+    "Josh Luria",
+    "Kelly Alpert - nov",
+    "Lisa Tarantino",
+    "Lynn Curry",
+    "Nancy Rogers",
+    "Nicole Sholly",
+    "Roberto Reichard",
+    "Steve Herzog",
+    "Toni Anderson",
+    "Walker Seligson - nov"
+  ]
 }
